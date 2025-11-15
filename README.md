@@ -23,7 +23,7 @@ Atuo garantindo disponibilidade, integridade e confidencialidade de ativos corpo
 
 ---
 
-# 🛡️ Atuação em Segurança da Informação (o que eu realmente faço)
+# 🛡️ Atuação em Segurança da Informação 
 
 ## 🔍 **Monitoramento & Threat Detection (SOC)**
 
