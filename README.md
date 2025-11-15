@@ -137,6 +137,7 @@ Embora meu foco seja **Segurança**, também desenvolvo projetos de:
 - Display OLED com logs  
 
 ### Repositórios
+- https://github.com/juaocrl/dashboard-iot-platform
 - https://github.com/juaocrl/esp32-iot-platform  
 - https://github.com/juaocrl/ofx-para-excel  
 
